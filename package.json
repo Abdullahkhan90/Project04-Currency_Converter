@@ -1,0 +1,22 @@
+{
+  "name": "@hafiz_abdullah/project04-currency_converter",
+  "version": "3.0.2",
+  "description": "Welcome to the Currency Converter! Here you can easily convert your currency betweeen different currencies with this command line tool.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hafiz Abdullah",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
