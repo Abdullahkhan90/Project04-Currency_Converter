@@ -1,2 +1,2 @@
 # Project04-Currency_Converter
-It's CLI based Currency Converter.
+Welcome to the Currency Converter! Here you can easily convert your currency betweeen different currencies with this command line tool.
